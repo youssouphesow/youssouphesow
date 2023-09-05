@@ -2,7 +2,7 @@
 <h3 align="center">Développeur full stack & Designer passionné du Sénégal</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/youssouphesow/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=youssouphesow" alt= "youssouphesow" />
   </a>
 </p>
