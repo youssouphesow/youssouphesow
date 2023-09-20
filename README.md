@@ -66,11 +66,11 @@
 <br><br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssouphe-sow&show_icons=true&locale=en&layout=compact" alt="youssouphe- semer" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssouphesow&show_icons=true&locale=fr&layout=compact" alt="youssouphesow" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssouphe-sow&show_icons=true&locale=en" alt="youssouphe-sow" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youssouphesow&show_icons=true&locale=fr" alt="youssouphesow" />
 </p>
 
 <p>
