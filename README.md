@@ -4,8 +4,7 @@
       src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
       alt="Youssouphe Sow" 
       style="
-        width: 280px;
-        height: 280px;
+        width: auto;
         object-fit: cover;
         border-radius: 50%;
         border: 4px solid #2E3440;
@@ -20,7 +19,7 @@
       transform: translate(-50%, -50%);
       text-align: center;
       width: 100%;
-    ">
+  ">
       <h1 style="
         color: white;
         font-size: 24px;
@@ -38,7 +37,7 @@
         border-radius: 20px;
         margin-top: 10px;
         display: inline-block;
-      ">
+">
         <h3 style="
           color: #2E3440;
           font-size: 18px;
