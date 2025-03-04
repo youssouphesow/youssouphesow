@@ -5,7 +5,6 @@
   <img 
     src="youssouphesow.jpg" 
     alt="Youssouphe Sow en conférence" 
-    width="250" 
     style="border-radius: 50%; border: 4px solid #2E3440; box-shadow: 0 8px 16px rgba(0,0,0,0.2); transition: transform 0.3s ease;" 
     onmouseover="this.style.transform='scale(1.05)'" 
     onmouseout="this.style.transform='scale(1)'"
