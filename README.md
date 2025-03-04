@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bonjour, Je suis Youssouphe Sow</h1>
 <h3 align="center">Développeur Full Stack & Designer Créatif 🇸🇳</h3>
 
-<div align="center" style="margin: 40px 0">
+<div align="center">
   <img 
     src="youssouphesow.jpg" 
     alt="Youssouphe Sow en conférence" 
