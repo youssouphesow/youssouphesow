@@ -15,7 +15,20 @@
 
 ---
 
-![Contribution Grid Snake](https://raw.githubusercontent.com/youssouphesow/youssouphesow/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="Animation de contributions GitHub"
+    src="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+  >
+</picture>
 
 ---
 
