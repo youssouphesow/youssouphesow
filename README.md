@@ -38,16 +38,16 @@
       👋 I AM YOUSSOUPHE SOW
     </h1>
     
-    <h3 style="
-      color: #FFD700;
-      font-size: 1.4em;
-      margin: 10px 0 0 0;
-      text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-      font-weight: 300;
-      letter-spacing: 1.5px;
-    ">
-      Full Stack Developer & Designer
-    </h3>
+  <h3 style="
+    color: #FFD700;
+    font-size: 1.4em;
+    margin: 10px 0 0 0;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+    font-weight: 300;
+    letter-spacing: 1.5px;
+  ">
+    Full Stack Developer & Designer
+  </h3>
   </div>
   
   <!-- Gradient overlay -->
