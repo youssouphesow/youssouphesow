@@ -1,39 +1,51 @@
-<div align="center">
+<div align="center" style="position: relative; display: inline-block">
   <img 
     src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
     alt="Youssouphe Sow" 
-    width=auto
+    width="280"
+    height="280"
     style="
       border-radius: 50%;
       border: 4px solid #2E3440;
       box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-      margin-bottom: -60px;
+      object-fit: cover;
     "
   >
   
   <div style="
-    background: rgba(255, 215, 0, 0.9);
-    padding: 10px 30px;
-    border-radius: 25px;
-    display: inline-block;
-    margin-top: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    padding: 0 15px;
   ">
-    <h1 style="
-      color: #2E3440;
-      margin: 0;
-      font-size: 1.8em;
-      letter-spacing: 1px;
+    <div style="
+      background: rgba(255, 215, 0, 0.9);
+      padding: 12px 25px;
+      border-radius: 30px;
+      display: inline-block;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     ">
-      👋 YOUSSOUPHE SOW
-    </h1>
-    <p style="
-      color: #2E3440;
-      margin: 5px 0 0 0;
-      font-size: 1.1em;
-      font-weight: 500;
-    ">
-      Full Stack Developer & Designer
-    </p>
+      <h1 style="
+        color: #2E3440;
+        margin: 0;
+        font-size: 1.8em;
+        letter-spacing: 1.5px;
+        line-height: 1.2;
+      ">
+        👋 YOUSSOUPHE SOW
+      </h1>
+      <p style="
+        color: #2E3440;
+        margin: 8px 0 0 0;
+        font-size: 1.1em;
+        font-weight: 600;
+      ">
+        Full Stack Developer & Designer
+      </p>
+    </div>
   </div>
 </div>
 
