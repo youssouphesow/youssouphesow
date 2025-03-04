@@ -2,8 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
     alt="Youssouphe Sow" 
-    width="280"
-    height="280"
+    width=auto
     style="
       border-radius: 50%;
       border: 4px solid #2E3440;
