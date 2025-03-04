@@ -6,7 +6,7 @@
       style="
         width: auto;
         object-fit: cover;
-        border-radius: 50%;
+        border-radius: 10%;
         border: 4px solid #2E3440;
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         filter: grayscale(20%) contrast(110%);
@@ -62,7 +62,21 @@
     border-radius: 50%;
     pointer-events: none;
     z-index: 1;
-  "></div>
+  ">    <img 
+      src="youssouphesow.jpg" 
+      alt="Youssouphe Sow"
+      style="
+        width: auto;
+        object-fit: cover;
+        border-radius: 10%;
+        border: 4px solid #2E3440;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        filter: grayscale(20%) contrast(110%);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      "
+      onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
+      onmouseout="this.style.transform='scale(1) rotate(0deg)'"
+    ></div>
   </div>
 </div>
 
