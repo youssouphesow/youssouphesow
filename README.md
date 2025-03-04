@@ -1,54 +1,39 @@
 <div align="center">
-  <div style="position: relative; display: inline-block">
-    <img 
-      src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
-      alt="Youssouphe Sow" 
-      style="
-        width: auto;
-        object-fit: cover;
-        border-radius: 50%;
-        border: 4px solid #2E3440;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-      "
-    >
-    
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      width: 100%;
+  <img 
+    src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
+    alt="Youssouphe Sow" 
+    width=auto
+    style="
+      border-radius: 50%;
+      border: 4px solid #2E3440;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      margin-bottom: -60px;
+    "
+  >
+  
+  <div style="
+    background: rgba(255, 215, 0, 0.9);
+    padding: 10px 30px;
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 20px;
   ">
-      <h1 style="
-        color: white;
-        font-size: 24px;
-        margin: 0;
-        text-shadow: 2px 2px 4px #000;
-        font-family: Arial, sans-serif;
-        line-height: 1.2;
-      ">
-        👋 I AM YOUSSOUPHE SOW
-      </h1>
-      
-      <div style="
-        background: rgba(255, 215, 0, 0.9);
-        padding: 8px 20px;
-        border-radius: 20px;
-        margin-top: 10px;
-        display: inline-block;
-">
-        <h3 style="
-          color: #2E3440;
-          font-size: 18px;
-          margin: 0;
-          font-weight: bold;
-          letter-spacing: 0.5px;
-        ">
-          Full Stack Developer & Designer
-        </h3>
-      </div>
-    </div>
+    <h1 style="
+      color: #2E3440;
+      margin: 0;
+      font-size: 1.8em;
+      letter-spacing: 1px;
+    ">
+      👋 YOUSSOUPHE SOW
+    </h1>
+    <p style="
+      color: #2E3440;
+      margin: 5px 0 0 0;
+      font-size: 1.1em;
+      font-weight: 500;
+    ">
+      Full Stack Developer & Designer
+    </p>
   </div>
 </div>
 
