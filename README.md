@@ -1,19 +1,20 @@
-<div align="center" style="position: relative; display: inline-block">
-  <div style="
-    width: 280px;
-    height: 280px;
-    border-radius: 50%;
-    border: 4px solid #2E3440;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-    overflow: hidden;
-    position: relative;
-  ">
+<div align="center" style="position: relative; margin: 2rem 0">
+  <div style="position: relative; display: inline-block">
     <img 
-      src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
-      alt="Youssouphe Sow" 
-      width="100%"
-      height="100%"
-      style="object-fit: cover;"
+      src="youssouphesow.jpg" 
+      alt="Youssouphe Sow"
+      style="
+        width: 280px;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 4px solid #2E3440;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        filter: grayscale(20%) contrast(110%);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      "
+      onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
+      onmouseout="this.style.transform='scale(1) rotate(0deg)'"
     >
     
   <div style="
@@ -23,37 +24,52 @@
     transform: translate(-50%, -50%);
     text-align: center;
     width: 100%;
-    padding: 0 15px;
-    z-index: 2;
+    pointer-events: none;
   ">
-    <div style="
-      background: rgba(255, 215, 0, 0.9);
-      padding: 12px 25px;
-      border-radius: 30px;
-      display: inline-block;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    <h1 style="
+      color: white;
+      font-size: 2.2em;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      letter-spacing: 2px;
+      animation: float 3s ease-in-out infinite;
     ">
-      <h1 style="
-        color: #2E3440;
-        margin: 0;
-        font-size: 1.8em;
-        letter-spacing: 1.5px;
-        line-height: 1.2;
-      ">
-        👋 I AM YOUSSOUPHE SOW
-      </h1>
-      <p style="
-        color: #2E3440;
-        margin: 8px 0 0 0;
-        font-size: 1.1em;
-        font-weight: 600;
-      ">
-        Designer & Full Stack Developer
-      </p>
-    </div>
+      👋 I AM YOUSSOUPHE SOW
+    </h1>
+    
+    <h3 style="
+      color: #FFD700;
+      font-size: 1.4em;
+      margin: 10px 0 0 0;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+      font-weight: 300;
+      letter-spacing: 1.5px;
+    ">
+      Full Stack Developer & Designer
+    </h3>
   </div>
+  
+  <!-- Gradient overlay -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
+    border-radius: 50%;
+    pointer-events: none;
+  "></div>
   </div>
 </div>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+</style>
 
 <p align="center"> 
   Visitor count<br>
