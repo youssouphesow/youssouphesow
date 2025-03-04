@@ -1,15 +1,75 @@
-<h1 align="center">👋 Bonjour, Je suis Youssouphe Sow</h1>
-<h3 align="center">Développeur Full Stack & Designer Créatif 🇸🇳</h3>
-
-<div align="center">
-  <img 
-    src="youssouphesow.jpg" 
-    alt="Youssouphe Sow en conférence" 
-    style="border-radius: 50%; border: 4px solid #2E3440; box-shadow: 0 8px 16px rgba(0,0,0,0.2); transition: transform 0.3s ease;" 
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  >
+<div align="center" style="position: relative; margin: 2rem 0">
+  <div style="position: relative; display: inline-block">
+    <img 
+      src="youssouphesow.jpg" 
+      alt="Youssouphe Sow"
+      style="
+        width: 280px;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 4px solid #2E3440;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        filter: grayscale(20%) contrast(110%);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      "
+      onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
+      onmouseout="this.style.transform='scale(1) rotate(0deg)'"
+    >
+    
+    <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      width: 100%;
+      pointer-events: none;
+    ">
+      <h1 style="
+        color: white;
+        font-size: 2.2em;
+        text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        letter-spacing: 2px;
+        animation: float 3s ease-in-out infinite;
+      ">
+        👋 I AM YOUSSOUPHE SOW
+      </h1>
+      
+      <h3 style="
+        color: #FFD700;
+        font-size: 1.4em;
+        margin: 10px 0 0 0;
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+        font-weight: 300;
+        letter-spacing: 1.5px;
+      ">
+        Full Stack Developer & Designer
+      </h3>
+    </div>
+    
+    <!-- Gradient overlay -->
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
+      border-radius: 50%;
+      pointer-events: none;
+    "></div>
+  </div>
 </div>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+</style>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
