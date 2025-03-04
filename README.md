@@ -40,7 +40,7 @@
         letter-spacing: 1.5px;
         line-height: 1.2;
       ">
-        👋 YOUSSOUPHE SOW
+        👋 I AM YOUSSOUPHE SOW
       </h1>
       <p style="
         color: #2E3440;
