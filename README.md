@@ -1,8 +1,7 @@
-<div align="center" style="position: relative; margin: 40px 0">
-  <div style="display: inline-block; position: relative">
-    <!-- Image de profil -->
+<div align="center">
+  <div style="position: relative; display: inline-block">
     <img 
-      src="youssouphesow.jpg" 
+      src="https://raw.githubusercontent.com/youssouphesow/youssouphesow/main/youssouphesow.jpg" 
       alt="Youssouphe Sow" 
       style="
         width: 280px;
@@ -13,7 +12,44 @@
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
       "
     >
-  
+    
+    <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      width: 100%;
+    ">
+      <h1 style="
+        color: white;
+        font-size: 24px;
+        margin: 0;
+        text-shadow: 2px 2px 4px #000;
+        font-family: Arial, sans-serif;
+        line-height: 1.2;
+      ">
+        👋 I AM YOUSSOUPHE SOW
+      </h1>
+      
+      <div style="
+        background: rgba(255, 215, 0, 0.9);
+        padding: 8px 20px;
+        border-radius: 20px;
+        margin-top: 10px;
+        display: inline-block;
+      ">
+        <h3 style="
+          color: #2E3440;
+          font-size: 18px;
+          margin: 0;
+          font-weight: bold;
+          letter-spacing: 0.5px;
+        ">
+          Full Stack Developer & Designer
+        </h3>
+      </div>
+    </div>
   </div>
 </div>
 
