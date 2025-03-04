@@ -1,5 +1,6 @@
-<div align="center" style="position: relative; margin: 2rem 0">
+<div align="center" style="position: relative; margin: 40px 0">
   <div style="display: inline-block; position: relative">
+    <!-- Image de profil -->
     <img 
       src="youssouphesow.jpg" 
       alt="Youssouphe Sow" 
@@ -10,59 +11,9 @@
         border-radius: 50%;
         border: 4px solid #2E3440;
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-        filter: grayscale(20%) contrast(110%);
       "
     >
-    
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      width: 100%;
-      z-index: 1;
-    ">
-      <h1 style="
-        color: white;
-        font-size: 2.2em;
-        text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-        margin: 0;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        letter-spacing: 2px;
-      ">
-        👋 I AM YOUSSOUPHE SOW
-      </h1>
-      
-      <div style="
-        background: rgba(255, 215, 0, 0.9);
-        padding: 8px 20px;
-        border-radius: 25px;
-        display: inline-block;
-        margin-top: 10px;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-      ">
-        <h3 style="
-          color: #2E3440;
-          font-size: 1.4em;
-          margin: 0;
-          font-weight: 600;
-          letter-spacing: 1.2px;
-        ">
-          Full Stack Developer & Designer
-        </h3>
-      </div>
-    </div>
-    
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
-      border-radius: 50%;
-    "></div>
+  
   </div>
 </div>
 
