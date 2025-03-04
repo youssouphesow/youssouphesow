@@ -4,8 +4,7 @@
       src="youssouphesow.jpg" 
       alt="Youssouphe Sow"
       style="
-        width: 280px;
-        height: 280px;
+        width:auto;
         object-fit: cover;
         border-radius: 50%;
         border: 4px solid #2E3440;
@@ -63,13 +62,6 @@
   "></div>
   </div>
 </div>
-
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-  }
-</style>
 
 <p align="center"> 
   Visitor count<br>
