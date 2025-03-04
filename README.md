@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/youssouphesow/youssouphesow/output/github-contribution-grid-snake.svg?color=green)
+
 ---
 
 ### 📍 Profil
