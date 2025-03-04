@@ -64,6 +64,12 @@
   </div>
 </div>
 
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+</style>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
