@@ -1,6 +1,17 @@
 <h1 align="center">👋 Bonjour, Je suis Youssouphe Sow</h1>
 <h3 align="center">Développeur Full Stack & Designer Créatif 🇸🇳</h3>
 
+<div align="center" style="margin: 40px 0">
+  <img 
+    src="youssouphesow.jpg" 
+    alt="Youssouphe Sow en conférence" 
+    width="250" 
+    style="border-radius: 50%; border: 4px solid #2E3440; box-shadow: 0 8px 16px rgba(0,0,0,0.2); transition: transform 0.3s ease;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  >
+</div>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=youssouphesow&theme=dark&locale=fr" alt="Statistiques GitHub" />
