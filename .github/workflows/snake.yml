@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Snake
         uses: Platane/snk@v2
@@ -17,7 +20,7 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
 
-      - name: Push changes
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: main
