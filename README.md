@@ -15,23 +15,6 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="Animation de contributions GitHub"
-    src="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
-  >
-</picture>
-
----
-
 ### 📍 Profil
 
 - 🔭 Actuellement en train de développer **[Joni Annonce](https://annonces.joni.sn)**
@@ -109,6 +92,23 @@
     <img src="https://img.shields.io/badge/-Tutoriels%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Chaîne YouTube"/>
   </a>
 </p>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="Animation de contributions GitHub"
+    src="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
+  >
+</picture>
 
 ---
 
