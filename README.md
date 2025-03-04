@@ -4,7 +4,7 @@
       src="youssouphesow.jpg" 
       alt="Youssouphe Sow"
       style="
-        width:auto;
+        width: auto;
         object-fit: cover;
         border-radius: 50%;
         border: 4px solid #2E3440;
@@ -16,6 +16,7 @@
       onmouseout="this.style.transform='scale(1) rotate(0deg)'"
     >
     
+  <!-- Conteneur de texte placé au-dessus de l'image -->
   <div style="
     position: absolute;
     top: 50%;
@@ -24,6 +25,7 @@
     text-align: center;
     width: 100%;
     pointer-events: none;
+    z-index: 2;  /* Assure que ce conteneur est au-dessus */
   ">
     <h1 style="
       color: white;
@@ -49,7 +51,7 @@
   </h3>
   </div>
   
-  <!-- Gradient overlay -->
+  <!-- Overlay de gradient avec un z-index inférieur -->
   <div style="
     position: absolute;
     top: 0;
@@ -59,6 +61,7 @@
     background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
     border-radius: 50%;
     pointer-events: none;
+    z-index: 1;
   "></div>
   </div>
 </div>
