@@ -7,23 +7,6 @@
       style="width: 100%; height: 100%; object-fit: cover; border-radius: 50px; border: 4px solid #2E3440; box-shadow: 0 10px 30px rgba(0,0,0,0.3); opacity: 0.7; pointer-events: none;"
     >
   </a>
-  
-  <!-- Conteneur de texte centré sur l'image -->
-  <!-- <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    z-index: 2;
-  "> -->
-  <!-- <h1 style="color: white; font-size: 2.2em; text-shadow: 2px 2px 8px rgba(0,0,0,0.6); margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 2px;">
-    👋 I AM YOUSSOUPHE SOW
-  </h1>
-  <h3 style="color: #FFD700; font-size: 1.4em; margin-top: 10px; text-shadow: 1px 1px 4px rgba(0,0,0,0.5); font-weight: 300; letter-spacing: 1.5px;">
-    Full Stack Developer & Designer
-  </h3>
-  </div> -->
 </div>
 
 <p align="center"> 
@@ -45,7 +28,7 @@
 
 ---
 
-### 📍 Profil
+<h1>📍 Profil</h1>
 
 - 🔭 Actuellement en train de développer **[JoniPay](https://pay.joni.sn)**
 - 📝 J'écris régulièrement sur **[Esperanzia](https://www.esperanzia.com)**
@@ -139,6 +122,18 @@
     src="https://youssouphesow.github.io/youssouphesow/github-contribution-grid-snake.svg"
   >
 </picture>
+
+---
+
+<h2 align="left">🚀JOIN THE ADVENTURE ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🚀</h2>
+
+                                                                                                
+    ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗ ██████╗ ██╗   ██╗██████╗ ███████╗    ███████╗ ██████╗ ██╗    ██╗
+    ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██║    ██║
+     ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗██║   ██║██║   ██║██████╔╝█████╗      ███████╗██║   ██║██║ █╗ ██║
+      ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██║   ██║██║   ██║██╔═══╝ ██╔══╝      ╚════██║██║   ██║██║███╗██║
+       ██║   ╚██████╔╝╚██████╔╝███████║███████║╚██████╔╝╚██████╔╝██║     ███████╗    ███████║╚██████╔╝╚███╔███╔╝
+       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝    ╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 
 ---
 
