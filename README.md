@@ -89,7 +89,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssouphesow&show_icons=true&theme=dark&locale=fr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssouphesow&layout=compact&theme=dark&locale=fr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssouphesow&layout=compact&theme=dark&locale=fr"/>
 </p>
 
 ---
