@@ -1,12 +1,14 @@
-<div align="center" style="position: relative; margin: 2rem 0">
-  <div style="position: relative; display: inline-block">
+<div align="center" style="margin: 2rem 0">
+  <div style="position: relative; display: inline-block;">
     <img 
       src="youssouphesow.jpg" 
-      alt="Youssouphe Sow"
+      alt="Youssouphesow"
       style="
-        width: auto;
+        display: block;
+        width: 300px; /* ou la largeur souhaitée */
+        height: 300px; /* assurez-vous d'avoir une hauteur pour centrer correctement */
         object-fit: cover;
-        border-radius: 10%;
+        border-radius: 50%;
         border: 4px solid #2E3440;
         box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         filter: grayscale(20%) contrast(110%);
@@ -15,17 +17,20 @@
       onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
       onmouseout="this.style.transform='scale(1) rotate(0deg)'"
     >
-    
-  <!-- Conteneur de texte placé au-dessus de l'image -->
+
+  <!-- Overlay pour centrer le texte avec Flexbox -->
   <div style="
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+    top: 0;
+    left: 0;
     width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     pointer-events: none;
-    z-index: 2;  /* Assure que ce conteneur est au-dessus */
+    z-index: 2;
   ">
     <h1 style="
       color: white;
@@ -38,26 +43,25 @@
     ">
       👋 I AM YOUSSOUPHE SOW
     </h1>
-    
-  <h3 style="
-    color: #FFD700;
-    font-size: 1.4em;
-    margin: 10px 0 0 0;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-    font-weight: 300;
-    letter-spacing: 1.5px;
-  ">
-    Full Stack Developer & Designer
-  </h3>
+    <h3 style="
+      color: #FFD700;
+      font-size: 1.4em;
+      margin-top: 10px;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+      font-weight: 300;
+      letter-spacing: 1.5px;
+    ">
+      Full Stack Developer & Designer
+    </h3>
   </div>
-  
-  <!-- Overlay de gradient avec un z-index inférieur -->
+
+  <!-- Overlay de gradient sous le texte -->
   <div style="
     position: absolute;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
+    width: 100%;
+    height: 100%;
     background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
     border-radius: 50%;
     pointer-events: none;
