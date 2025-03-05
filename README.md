@@ -23,7 +23,7 @@
   <!-- Conteneur de texte centré -->
   <div style="
     position: absolute;
-    top: 50%;
+    top: 50px;
     left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
