@@ -27,8 +27,8 @@
 
 ### 📍 Profil
 
-- 🔭 Actuellement en train de développer **[Joni Annonce](https://annonces.joni.sn)**
-- 📝 J'écris régulièrement sur **[Sentuto Tech Blog](https://www.sentuto.com)**
+- 🔭 Actuellement en train de développer **[JoniPay](https://pay.joni.sn)**
+- 📝 J'écris régulièrement sur **[Esperanzia](https://www.esperanzia.com)**
 - 🎨 Portfolio complet : **[youssouphesow.com](https://www.youssouphesow.com)**
 - 📫 Contact professionnel : **youssouphesow1111@gmail.com**
 - 🚀 Tous mes projets : **[Répertoire GitHub](https://github.com/Youssouphe-sow?tab=repositories)**
