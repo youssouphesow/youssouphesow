@@ -1,29 +1,72 @@
-<p align="center" style="position: relative; display: inline-block;">
+<div style="position: relative; display: inline-block; width: 300px; height: 300px; margin: 2rem auto;">
+  <!-- L'image -->
   <img 
     src="youssouphesow.jpg" 
     alt="Youssouphesow" 
-    style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; border: 4px solid #2E3440; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"
+    style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #2E3440;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      filter: grayscale(20%) contrast(110%);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    "
+    onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
+    onmouseout="this.style.transform='scale(1) rotate(0deg)'"
   >
-  <span style="
+  
+  <!-- Conteneur de texte centré -->
+  <div style="
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
-    font-size: 1.8em;
-    font-family: 'Segoe UI', sans-serif;
-    text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-    text-align: center;
-    line-height: 1.2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 2;
   ">
-    👋 I AM YOUSSOUPHE SOW<br>
-    Full Stack Developer & Designer
-  </span>
-</p>
-
-<p align="center">
-  <a href="https://esperanzia.com/"><img src="https://github.com/youssouphesow/youssouphesow/blob/main/youssouphesow.jpg?raw=true" width="auto" alt="👋 I AM YOUSSOUPHE SOW"/></a>
-</p>
+    <h1 style="
+      color: white;
+      font-size: 2.2em;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      letter-spacing: 2px;
+    ">
+      👋 I AM YOUSSOUPHE SOW
+    </h1>
+    <h3 style="
+      color: #FFD700;
+      font-size: 1.4em;
+      margin-top: 10px;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+      font-weight: 300;
+      letter-spacing: 1.5px;
+    ">
+      Full Stack Developer & Designer
+    </h3>
+  </div>
+  
+  <!-- Overlay de gradient -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+  "></div>
+</div>
 
 <p align="center"> 
   Visitor count<br>
