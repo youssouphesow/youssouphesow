@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="http://esperanzia.com/"><img src="https://youssouphesow.github.io/youssouphesow/youssouphesow.jpg?raw=true" width="auto" alt="Welcome"/>
-
-  <h1 align="center">👋 I AM YOUSSOUPHE SOW</h1>
-  <h3 align="center">Full Stack Developer & Designer</h3>
+  <a href="http://esperanzia.com/">
+    <h1 align="center">👋 I AM YOUSSOUPHE SOW</h1>
+    <img src="https://youssouphesow.github.io/youssouphesow/youssouphesow.jpg?raw=true" width="auto" alt="Welcome"/>
+    <h3 align="center">Full Stack Developer & Designer</h3>
   </a>
 </p>
 
