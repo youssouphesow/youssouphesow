@@ -20,17 +20,7 @@
   <!-- Conteneur de texte centré -->
   <div style="
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    z-index: 2;
+    top: 200px;
   ">
     <h1 style="
       color: white;
