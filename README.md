@@ -1,34 +1,34 @@
-<div align="center" style="margin: 2rem 0">
-  <div style="position: relative; display: inline-block;">
-    <img 
-      src="youssouphesow.jpg" 
-      alt="Youssouphesow"
-      style="
-        display: block;
-        width: 300px; /* ou la largeur souhaitée */
-        height: 300px; /* assurez-vous d'avoir une hauteur pour centrer correctement */
-        object-fit: cover;
-        border-radius: 50%;
-        border: 4px solid #2E3440;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-        filter: grayscale(20%) contrast(110%);
-        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-      "
-      onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
-      onmouseout="this.style.transform='scale(1) rotate(0deg)'"
-    >
-
-  <!-- Overlay pour centrer le texte avec Flexbox -->
+<div style="position: relative; display: inline-block; width: 300px; height: 300px; margin: 2rem auto;">
+  <!-- L'image -->
+  <img 
+    src="youssouphesow.jpg" 
+    alt="Youssouphesow" 
+    style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #2E3440;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      filter: grayscale(20%) contrast(110%);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    "
+    onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
+    onmouseout="this.style.transform='scale(1) rotate(0deg)'"
+  >
+  
+  <!-- Conteneur de texte centré -->
   <div style="
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 100%;
+    height: 100%;
     pointer-events: none;
     z-index: 2;
   ">
@@ -39,7 +39,6 @@
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       letter-spacing: 2px;
-      animation: float 3s ease-in-out infinite;
     ">
       👋 I AM YOUSSOUPHE SOW
     </h1>
@@ -54,8 +53,8 @@
       Full Stack Developer & Designer
     </h3>
   </div>
-
-  <!-- Overlay de gradient sous le texte -->
+  
+  <!-- Overlay de gradient -->
   <div style="
     position: absolute;
     top: 0;
@@ -67,7 +66,6 @@
     pointer-events: none;
     z-index: 1;
   "></div>
-  </div>
 </div>
 
 <p align="center"> 
