@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="http://orbitturner.com/"><img src="https://youssouphesow.github.io/youssouphesow?raw=true" width="auto" alt="Youssouphe Sow"/></a>
+  <img src="https://youssouphesow.github.io/youssouphesow/youssouphesow.jpg" width="200" alt="Youssouphesow">
 </p>
+
+<h1 align="center">👋 I AM YOUSSOUPHE SOW</h1>
+<h3 align="center">Full Stack Developer & Designer</h3>
 
 <p align="center"> 
   Visitor count<br>
