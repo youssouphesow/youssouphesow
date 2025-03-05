@@ -1,4 +1,4 @@
-[Voir la démo complète](https://youssouphesow.github.io/youssouphesow/index.html)
+[Voir la démo complète](https://youssouphesow.github.io/youssouphesow)
 
 <p align="center"> 
   Visitor count<br>
