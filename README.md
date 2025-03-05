@@ -14,7 +14,7 @@
       filter: grayscale(20%) contrast(110%);
       transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
       pointer-events: none;
-      z-index: 1;
+      z-index: 2;
     "
     onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
     onmouseout="this.style.transform='scale(1) rotate(0deg)'"
@@ -33,7 +33,7 @@
     width: 100%;
     height: 100%;
     pointer-events: none;
-    z-index: 2;
+    z-index: 1;
   ">
     <h1 style="
       color: white;
@@ -56,7 +56,6 @@
       Full Stack Developer & Designer
     </h3>
   </div>
-  
 </div>
 
 <p align="center"> 
