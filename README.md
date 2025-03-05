@@ -1,4 +1,4 @@
-<div style="position: relative; display: inline-block; width: 300px; height: 300px; margin: 2rem auto;">
+<div style="position: relative;">
   <!-- L'image -->
   <img 
     src="youssouphesow.jpg" 
@@ -10,7 +10,6 @@
       border-radius: 50%;
       border: 4px solid #2E3440;
       box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-      background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
       filter: grayscale(20%) contrast(110%);
       transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
       pointer-events: none;
