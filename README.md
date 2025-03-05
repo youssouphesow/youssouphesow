@@ -1,45 +1,12 @@
 <div style="position: relative;">
-  <!-- L'image -->
-  <img 
-    src="youssouphesow.jpg" 
-    alt="Youssouphesow" 
-    style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 4px solid #2E3440;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-      filter: grayscale(20%) contrast(110%);
-      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-      pointer-events: none;
-      z-index: 1;
-    "
-  >
-  
   <!-- Conteneur de texte centré -->
-  <div style="
-    position: absolute;
-    top: 200px;
-  ">
-    <h1 style="
-      color: white;
-      font-size: 2.2em;
-      text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      letter-spacing: 2px;
-    ">
+  <div style="position: absolute; top: 50%;">
+    <!-- L'image -->
+    <img src="youssouphesow.jpg" alt="Youssouphesow" style="width: 100%; height: 100%; object-fit: cover;border-radius: 50px; border: 4px solid #2E3440; box-shadow: 0 10px 30px rgba(0,0,0,0.3); pointer-events: none; z-index: 1;">
+    <h1 style="color: white; font-size: 2.2em; text-shadow: 2px 2px 8px rgba(0,0,0,0.6); margin: 0;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 2px; ">
       👋 I AM YOUSSOUPHE SOW
     </h1>
-    <h3 style="
-      color: #FFD700;
-      font-size: 1.4em;
-      margin-top: 10px;
-      text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-      font-weight: 300;
-      letter-spacing: 1.5px;
-    ">
+    <h3 style="color: #FFD700; font-size: 1.4em;margin-top: 10px; text-shadow: 1px 1px 4px rgba(0,0,0,0.5); font-weight: 300; letter-spacing: 1.5px; ">
       Full Stack Developer & Designer
     </h3>
   </div>
