@@ -21,6 +21,10 @@
   </span>
 </p>
 
+<p align="center">
+  <a href="https://esperanzia.com/"><img src="https://github.com/youssouphesow/youssouphesow/blob/main/youssouphesow.jpg?raw=true" width="auto" alt="👋 I AM YOUSSOUPHE SOW"/></a>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/youssouphesow/count.svg" />
