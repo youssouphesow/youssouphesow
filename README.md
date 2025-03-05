@@ -10,8 +10,11 @@
       border-radius: 50%;
       border: 4px solid #2E3440;
       box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
       filter: grayscale(20%) contrast(110%);
       transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      pointer-events: none;
+      z-index: 1;
     "
     onmouseover="this.style.transform='scale(1.05) rotate(2deg)'"
     onmouseout="this.style.transform='scale(1) rotate(0deg)'"
@@ -54,18 +57,6 @@
     </h3>
   </div>
   
-  <!-- Overlay de gradient -->
-  <div style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(45deg, rgba(46,52,64,0.3) 0%, rgba(255,215,0,0.15) 100%);
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 1;
-  "></div>
 </div>
 
 <p align="center"> 
