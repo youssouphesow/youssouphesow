@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://youssouphesow.github.io/youssouphesow/youssouphesow.jpg" width="200" alt="Youssouphesow">
-</p>
-
-<h1 align="center">👋 I AM YOUSSOUPHE SOW</h1>
-<h3 align="center">Full Stack Developer & Designer</h3>
+![Mon Image](https://youssouphesow.github.io/youssouphesow/index.html)
 
 <p align="center"> 
   Visitor count<br>
