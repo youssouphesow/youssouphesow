@@ -108,6 +108,12 @@
 
 ---
 
+<a href="https://github.com/youssouphesow/Snake-Game">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=youssouphesow&theme=redical" />
+</a>
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -134,7 +140,6 @@
        ██║   ╚██████╔╝╚██████╔╝███████║███████║╚██████╔╝╚██████╔╝██║     ███████╗    ███████║╚██████╔╝╚███╔███╔╝
        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝    ╚══════╝ ╚═════╝  ╚══╝╚══╝ 
       
-
 *Let's build the future together !*
 ---
 
